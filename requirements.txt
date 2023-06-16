@@ -1,0 +1,15 @@
+certifi==2023.5.7
+distlib==0.3.6
+filelock==3.11.0
+imutils==0.5.4
+numpy==1.24.2
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+packaging==23.0
+pdf2image==1.16.3
+Pillow==9.5.0
+platformdirs==3.2.0
+PyMuPDF==1.22.0
+pytesseract==0.3.10
+virtualenv==20.23.0
+virtualenv-clone==0.5.7
